@@ -1,0 +1,104 @@
+For Stellaris Version: 3.2
+
+Adds additional mandates for democratic empires. Now you're not just limited to building mining or research stations.
+
+
+[h1]General Changes[/h1]
+-All mandates give 10 months worth of unity
+-All mandates give an additional reward that lasts for 10 years (reward depends on mandate, check your empire modifiers after a mandate is completed)
+-Mandates that reward on end of term now also reward on leader death, assuming you have satisfied the mandate's requirements
+-Mandates that reward on end of term instead reward when elections start
+- Some mandates now have sanity checks that limit when they can show up
+-Leadership of factions will occasionally change hands for various reasons
+-Democracies may adopt term limits
+
+-Restored the old awoken trait from the Limbo anomaly
+
+[h1]Modified Mandates[/h1]
+-Buildings observation posts count towards orbital research mandate
+-Building a research district on a habitat will complete the orbital research mandate
+-Building a mineral or energy district on a habitat will complete the orbital mining mandate
+-Build District mandates now account for additional appropriate districts. Building one relevant ringworld district will complete the mandate
+-Build District mandates now also count relevant buildings (such as mineral processing and rare mining buildings for mining districts)
+-Industrial districts now count for the Urbanizer mandate
+-Voidborn Origin gains access to all district related mandates except farming
+
+[h1]New Mandates[/h1]
+
+Interstellar Expansion
+Either colonize a new planet OR expand into 4 new systems
+
+Interstellar Exploration
+Completely Survey 6 new systems
+
+Peacemaker
+Be involved in no wars by the end of your term
+
+Shipwright
+Must be using at least 75% fleet capacity by the end of your term
+
+Uplift Species
+Uplift a pre-sapient or pre-FTL species in your empire (uplifts from events such as the Nivlac do count)
+
+Great Emancipator
+Ban slavery
+
+Outlaw Robotics
+Outlaw both robots and AI
+
+Legalize AI
+Legalize both robots and AI (either servitude or full rights)
+
+AI Liberation
+Give AI full rights
+
+Aggressive Diplomacy
+Set war policy to unrestricted or liberation
+
+Defensive Stance
+Set war policy to no wars
+
+Xenopurger
+Purge five xeno pops
+
+Army Recruiter
+Recruit 6 armies. Buildings and upgrades to buildings that give soldier jobs count as 3 per additional soldier job. Buildings that give enforcer jobs count as 2 per additional enforcer job.
+
+Xeno Alliance
+Join a defensive pact or federation
+
+Xeno Isolation
+Leave any defensive pacts or federations, break any migration treaties, have accept no refugees policy
+
+Warmonger
+Start an aggressive wars
+
+Declare Rival
+Declare a rivalry
+
+Open Migration
+Sign a migration treaty
+
+Science Without Borders
+Sign a research agreement
+
+Individual Freedom
+Ban resettlement and population controls, no pops under migration control
+
+Xeno Disenfranchisement
+No xenos have full citizenship rights by end of term
+
+Tough on Crime
+No planet has more than 15% crime
+
+
+[h1]Donations[/h1]
+[url=https://www.patreon.com/user?u=32677412] [img]https://c5.patreon.com/external/logo/become_a_patron_button@2x.png[/img] [/url]
+I have recently launched a [url=https://www.patreon.com/user?u=32677412]patreon[/url] page. I have a lot of future plans for my mods, but they will rely on your support to see fruition. I'm not planning on delaying releases for non-patreons or anything like that, but my patreons will get behind the scenes looks into upcoming content. If you enjoy my mods, I hope you consider donating a little.
+
+
+Compatibility:
+This mod, in addition to modding the mandate related files, modifies parts of the following files:
+anomaly_events_7
+distant_stars_events
+observation_events

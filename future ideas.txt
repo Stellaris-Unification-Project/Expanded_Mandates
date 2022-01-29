@@ -1,0 +1,54 @@
+Cheaper election influence costs after completing your mandate
+is_leader_age now exists, can make older leaders retire
+if president's faction has low approval, can be primaried
+
+types of scandals
+
+Imperialist
+- embezzling military budget (can choose to arrest)
+
+Isolationist
+- relations with an alien
+- secret deals with military industrial complex
+
+
+Progressive
+- owns a "servant"
+- embezzling charitable foundation funds (can choose to arrest)
+
+
+Prosperity
+- secret deals with military industrial complex
+
+
+Supremacist
+- relations with an alien
+
+
+Technologist
+- embezzling science budget (can choose to arrest)
+
+
+Totalitarian
+- anti-democratic aggitation (democracies only)
+
+
+Traditionalist
+- secret atheist
+- owns a robot
+- embezzling charitable foundation funds (can choose to arrest)
+
+
+Xenoist
+- embezzling charitable foundation funds (can choose to arrest)
+
+
+General
+- doesn't believe in god-emperor (can execute)
+- meeting with aliens (fanatic purifier)
+- affair
+- corrupt buisness dealings (generic, several variations)
+- upset shadow council (shadow council)
+- hording luxuriates (shared burdens)
+- embezzling funds (can choose to arrest)
+- plagarized scientific work (scientist only) (can chose to fire, gain level 3 scientist in return)
