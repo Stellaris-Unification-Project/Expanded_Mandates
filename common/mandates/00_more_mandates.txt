@@ -392,8 +392,10 @@ mandate_ai_emancipation = {
 		owner = {
 			is_spiritualist = no
 			has_policy_flag = ai_servitude
-			NOT = { has_policy_flag = robots_outlawed }
-			NOT = { has_valid_civic = civic_fanatic_purifiers }
+			NOR = {
+				has_policy_flag = robots_outlawed
+				has_valid_civic = civic_fanatic_purifiers
+			}
 		}
 		OR = {
 			ROOT = { leader_of_faction = technologist }
@@ -497,8 +499,10 @@ mandate_alliance = {
 	valid = {
 		exists = owner
 		owner = {
-			NOT = { has_valid_civic = civic_fanatic_purifiers }
-			NOT = { has_valid_civic = civic_barbaric_despoilers }
+			NOR = {
+				has_valid_civic = civic_fanatic_purifiers
+				has_valid_civic = civic_barbaric_despoilers
+			}
 			NOR = {
 				any_country = { has_defensive_pact = PREV }
 				has_federation = yes

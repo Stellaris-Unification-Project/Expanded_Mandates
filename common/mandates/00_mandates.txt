@@ -108,7 +108,7 @@ mandate_peacemaker = {
 	}
 }
 
-#*** Shipwright, build X ships by year Y. count_ships trigger
+#*** Shipwright, build X ships by year Y. count_fleet_in_system trigger
 mandate_shipwright = {
 	valid = {
 		#always = no
