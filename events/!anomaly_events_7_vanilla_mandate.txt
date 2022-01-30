@@ -419,8 +419,6 @@ country_event = {
 					NOR = {
 						has_modifier = holy_planet
 						has_modifier = phaseshifted
-					}
-					NOR = {
 						exists = owner
 						exists = controller
 					}
@@ -484,8 +482,6 @@ country_event = {
 						NOR = {
 							has_modifier = holy_planet
 							has_modifier = phaseshifted
-						}
-						NOR = {
 							exists = owner
 							exists = controller
 						}
